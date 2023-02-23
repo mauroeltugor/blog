@@ -1,0 +1,28 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:darkcyan;
+}
+
+a:hover{
+    background-color: blueviolet;
+}
+
+h1{
+    color:aquamarine;
+}
+
+#part5 ul{
+    border-style: solid;
+}
+
+.image{
+    border-style:dashed;
+    width: 500px;
+    height: 300px;
+}
+
+#lastimg{
+    height: 500px;
+    width: 400px;
+}
